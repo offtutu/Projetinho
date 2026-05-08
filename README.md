@@ -93,5 +93,5 @@ repo/
     /infra
       /database
         connection_factory.py
-      /migrations
     main.py
+```
