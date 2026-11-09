@@ -33,6 +33,7 @@ O projeto foi desenvolvido com foco em:
 ## Executar o projeto
 
 ```bash
+python -m pip install -r requirements.txt
 python main.py
 ```
 ---
