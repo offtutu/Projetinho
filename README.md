@@ -32,10 +32,17 @@ O projeto foi desenvolvido com foco em:
 
 ## Executar o projeto
 
+Com o Python 3 e o Git instalados, execute no terminal:
+
 ```bash
+git clone https://github.com/offtutu/Projetinho.git
+cd Projetinho
 python -m pip install -r requirements.txt
 python main.py
 ```
+
+O banco SQLite é criado automaticamente na primeira execução.
+
 ---
 
 ## Arquitetura do Sistema
